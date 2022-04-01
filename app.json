@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "prakt-4",
+    "slug": "prakt-4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
